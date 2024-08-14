@@ -1,4 +1,4 @@
-# Text Extraction (for quotations, POs)
+# Text Extraction (for Quotations, POs)
 
 ## Overview
 This Python script automates the extraction of key information from Purchase Orders (POs) in PDF format. It handles both scanned and non-scanned PDFs, segregating the extracted data into three main categories: vendor details, essential PO information, and table data.
